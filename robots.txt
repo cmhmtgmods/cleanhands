@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/favicon/
+
+Sitemap: https://cleanhandsbg.com/sitemap.xml

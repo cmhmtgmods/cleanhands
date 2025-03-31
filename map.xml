@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Главные страницы -->
+  <url>
+    <loc>https://cleanhandsbg.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Страницы услуг на русском -->
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/regulyarnaya-uborka-kvartir-domov/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/regulyarnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/redovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/regular-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/generalnaya-uborka-kvartir-domov/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/generalnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/osnovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/deep-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/uborka-posle-remonta/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-posle-remonta/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-sled-remont/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/post-renovation-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/mytye-okon/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/mytye-okon/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/izmirane-na-prozorci/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/window-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/uslugi/uborka-ofisov/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-ofisov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-na-ofisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/office-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Страницы услуг на болгарском -->
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/redovno-pochistvane-apartamenti-kyshti/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/regulyarnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/redovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/regular-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/osnovno-pochistvane-apartamenti-kyshti/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/generalnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/osnovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/deep-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/pochistvane-sled-remont/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-posle-remonta/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-sled-remont/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/post-renovation-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/izmirane-na-prozorci/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/mytye-okon/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/izmirane-na-prozorci/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/window-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/uslugi/pochistvane-na-ofisi/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-ofisov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-na-ofisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/office-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Страницы услуг на английском -->
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/regular-cleaning-apartments-houses/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/regulyarnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/redovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/regular-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/deep-cleaning-apartments-houses/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/generalnaya-uborka-kvartir-domov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/osnovno-pochistvane-apartamenti-kyshti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/deep-cleaning-apartments-houses/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/post-renovation-cleaning/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-posle-remonta/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-sled-remont/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/post-renovation-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/window-cleaning/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/mytye-okon/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/izmirane-na-prozorci/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/window-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/services/office-cleaning/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/uslugi/uborka-ofisov/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/uslugi/pochistvane-na-ofisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/services/office-cleaning/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Блог и отзывы на русском -->
+  <url>
+    <loc>https://cleanhandsbg.com/ru/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/blog/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/otzyvy/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/otzyvy/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/otzivi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/reviews/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Блог и отзывы на болгарском -->
+  <url>
+    <loc>https://cleanhandsbg.com/bg/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/blog/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/bg/otzivi/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/otzyvy/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/otzivi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/reviews/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Блог и отзывы на английском -->
+  <url>
+    <loc>https://cleanhandsbg.com/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/blog/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/blog/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/en/reviews/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/otzyvy/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/otzivi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/reviews/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Контакты и правовые страницы -->
+  <url>
+    <loc>https://cleanhandsbg.com/ru/kontakty/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/kontakty/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/kontakti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/contacts/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/politika-konfidencialnosti/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/politika-konfidencialnosti/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/politika-za-poveritelnost/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/privacy-policy/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://cleanhandsbg.com/ru/usloviya-ispolzovaniya/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cleanhandsbg.com/ru/usloviya-ispolzovaniya/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://cleanhandsbg.com/bg/usloviya-za-polzvane/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanhandsbg.com/en/terms-of-use/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
